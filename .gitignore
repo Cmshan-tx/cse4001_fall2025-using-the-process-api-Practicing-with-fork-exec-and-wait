@@ -1,0 +1,16 @@
+# C build artifacts
+*.o
+*.out
+*.a
+*.so
+*.dSYM/
+# local binaries & outputs
+q1
+q2
+q3
+q4
+q5
+q6
+q7
+out.txt
+p4.output
